@@ -1,0 +1,9 @@
+title: Thomas Hong
+description: Projects • Writing • Resume
+theme: minima
+
+# Puts these pages in the top nav:
+header_pages:
+  - projects.md
+  - blog.md
+  - resume.md
