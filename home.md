@@ -11,12 +11,12 @@ I'm Thomas!
 This site collects my projects, notes, and writing as I grow. It's actually quite daunting to put myself out there in this way, sharing my thoughts to the internet and making myself vulnerable to strangers' judgement of my curated readings, my opinions on the things I care about, the projects I've worked on... but it's also an opportunity to learn and grow, and reflect on my progress as I engage enthusiastically with the struggles of life.
 
 I'm a:
-    - foodie
-    - dog dad (father to Bonothan Bean Boothang, 5 y/o frenchton)
-    - software engineer
-    - gamer
-    - writer
-    - lebron lover
+- foodie
+- dog dad (father to Bonothan Bean Boothang, 5 y/o frenchton)
+- software engineer
+- gamer
+- writer
+- lebron lover
 
 I'm Korean-Canadian living in the US.
 
