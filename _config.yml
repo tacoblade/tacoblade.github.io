@@ -4,6 +4,6 @@ theme: minima
 
 # Puts these pages in the top nav:
 header_pages:
-  - projects.md
+  - home.md
   - blog.md
   - resume.md
