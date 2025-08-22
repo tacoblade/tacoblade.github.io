@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Writing – Blog
+title: Writing
 permalink: /blog/
 ---
 
