@@ -1,6 +1,7 @@
 ---
 layout: home
-title: Nice to Meet You :)
+title: Home
+display_title: Nice to Meet You :)
 permalink: /
 ---
 
