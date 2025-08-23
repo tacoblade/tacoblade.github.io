@@ -1,11 +1,9 @@
 ---
 layout: home
 title: Home
-display_title: Nice to Meet You :)
+display_title: Hello there,
 permalink: /
 ---
-
-# Hello there,
 
 I'm Thomas!
 
@@ -30,7 +28,7 @@ I enjoy cooking (I have a bias for carb-y dishes that will knock me out)
 I'm really glad you're here reading this, because it's a chance to connect – I'd love to hear from you. 
 
 - **Writing:** short notes and longer posts
-**Journeys** adventure logs – from travels far and wide to local trips to new restaurants
+- **Journeys** adventure logs – from travels far and wide to local trips to new restaurants
 - **Resume:** background and contact
 
 If you want to chat or collaborate, reach out!

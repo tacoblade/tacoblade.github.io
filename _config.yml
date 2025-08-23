@@ -6,4 +6,5 @@ theme: minima
 header_pages:
   - home.md
   - blog.md
+  - journeys.md
   - resume.md

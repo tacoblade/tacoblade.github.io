@@ -1,11 +1,9 @@
 ---
-layout: page
+layout: home
 title: Resume
 ---
 
-# Resume
-
-software engineer
+Software Engineer
 
 ## Experience
 - **Microsoft** — Software Engineer (Aug 2022 - Dec 2024)  
@@ -28,4 +26,4 @@ Bachelor of Science (B.S.), Major in Computer Science
 
 ## Contact
 - Email: sj.thomas.hong@gmail.com
-- GitHub: https://github.com/tacoblade
+- Phone: 678-956-4007
